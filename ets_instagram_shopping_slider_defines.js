@@ -1,0 +1,10 @@
+var ETS_ISS_ACCESS_TOKEN = '';
+var ETS_ISS_INIT_CACHE_URL = 'https://cdn.shopify.com/s/files/1/2155/9601/t/2/assets/eiss_init_cache.json?v=1666613889';
+var ETS_ISS_TAG_CACHE_DATA = {};
+var ETS_ISS_APP_ENABLED = 1;
+var ETS_ISS_APP_URL = 'https://insta-app.etssoft.net';
+var ETS_ISS_LAST_TIME_CLEAR = '';
+var EISS_USER_TYPE=0;
+var EISS_SHOP_ID='10946';
+var EISS_USERID="6346396978708919";
+var EISS_QUERY_HASH="";

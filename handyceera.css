@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Handycheera';
+    src: url('Handycheera.eot');
+    src: url('Handycheera.eot?#iefix') format('embedded-opentype'),
+         url('Handycheera.woff') format('woff'),
+         url('Handycheera.ttf') format('truetype'),
+         url('Handycheera.svg#Handycheera') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
