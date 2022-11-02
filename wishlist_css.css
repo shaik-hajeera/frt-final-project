@@ -1,0 +1,8 @@
+
+/* wishlist page*/
+.ms_wishlist_title {color:inherit !important;font-family:inherit !important;}
+.mswish_product .product_title a{font-size:16px!important;color:#000!important;font-family:inherit!important;}
+.mswish_product .price{color:#000!important;}
+.mswishlist_addtocartbtn,.mswishlist_addtocartallbtn{background:#337ab7!important;border-color:#337ab7!important;}
+.mswishlist_removebtn,.mswishlist_removeallbtn,#ms_modal_remove_button{background:#d9534f!important;border-color:#d9534f!important;}
+
